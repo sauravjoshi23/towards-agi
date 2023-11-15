@@ -1,4 +1,4 @@
-# my-app
+# Neo4j-RAG-Agent
 
 ## Installation
 
