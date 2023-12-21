@@ -27,5 +27,6 @@ A collection of personally developed projects contributing towards the advanceme
 
 | No. | Name | Link |
 |----------|----------|----------|
-| 2 | integrated qa neo4j langchain rag | <a href="https://github.com/sauravjoshi23/ai/blob/main/retrieval%20augmented%20generation/integrated-qa-neo4j-langchain.ipynb">Link</a> |
+| 3 | integrated qa neo4j langchain unstructured, semi-structured, and graph knowledge rag | <a href="https://github.com/sauravjoshi23/towards-agi/tree/main/retrieval%20augmented%20generation/integrated-qa-neo4j-langchain-semi-structured-data">Link</a> |
+| 2 | integrated qa neo4j langchain unstructured and graph knowledge rag | <a href="https://github.com/sauravjoshi23/ai/blob/main/retrieval%20augmented%20generation/integrated-qa-neo4j-langchain.ipynb">Link</a> |
 | 1 | llama2-7b medical qa rag aws sagemaker | <a href="https://github.com/sauravjoshi23/ai/blob/main/retrieval%20augmented%20generation/llama2-7b-medical-qa-rag.ipynb">Link</a> |
